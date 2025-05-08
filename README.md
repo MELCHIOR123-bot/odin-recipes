@@ -1,1 +1,2 @@
 # odin-recipes
+This project is my first project using html i will be builidng a simple recipes websites that will consist of a main index page which will have links to  afew recipes, the websites won't look very pretty by the tme i am finished but it's important to keep in mind that this project is just to build on my HTML Chops i will revisit this project in the future to stule it up with CSS
